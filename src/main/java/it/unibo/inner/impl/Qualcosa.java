@@ -1,0 +1,4 @@
+/** CIAOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO */
+public class Qualcosa {
+  
+}
