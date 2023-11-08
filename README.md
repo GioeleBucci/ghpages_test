@@ -1,6 +1,6 @@
 # INSTRUCTIONS
 
-**Ensure that all parts of the exercise are correct, not just the end of them.**
+[Link to documentation](https://gioelebucci.github.io/ghpages_test/)
 
 ## Part 1: iterable without policy
 
